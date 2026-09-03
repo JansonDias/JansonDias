@@ -8,23 +8,22 @@ on:
 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake animations
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: JansonDias
-          outputs: |
-            dist/snake-light.svg?palette=#ebedf0,#d9f2d9,#b8e6b8,#8bd38b,#5cbd5c
-            dist/snake-dark.svg?palette=#161b22,#214d2b,#2f7d3c,#45a049,#6ccf70
+          outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
