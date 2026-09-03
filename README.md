@@ -18,7 +18,7 @@ Sou estudante de Desenvolvimento Back-End, atualmente focado no desenvolvimento 
 [![](https://komarev.com/ghpvc/?username=JansonDias&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
           
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
