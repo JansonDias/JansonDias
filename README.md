@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Janson Dias
 
-# 💫 About Me:
+# 💫 Quem sou eu:
 Sou estudante de Desenvolvimento Back-End, atualmente focado no desenvolvimento de aplicações utilizando Node.js e JavaScript.<br><br>Tenho interesse em desenvolvimento de APIs, banco de dados e construção de sistemas escaláveis. Busco constantemente aprimorar meus conhecimentos através de estudos e projetos práticos.<br><br>Estou em busca de oportunidades para desenvolver minha experiência profissional na área de tecnologia, contribuir com projetos e evoluir como Desenvolvedor Back-End.<br><br>Tecnologias em estudo: Node.js , JavaScript , APIs REST , Express.js , bancos de dados, Git e GitHub.
 
 
